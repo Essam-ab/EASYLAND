@@ -1,4 +1,4 @@
-#EASYLAND
+# EASYLAND
 a social networking website in which users can post proposition and others vote for it. Each weak the highest voted proposition will be chosen and everyone will get an email that this proposition is the chosen one to be executed this weak and more...
 
 ## Installation
