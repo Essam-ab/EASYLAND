@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2322.197" height="892.602" viewBox="0 0 2322.197 892.602">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.968" y1="0.431" x2="-0.007" y2="0.554" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f4436c"/>
+      <stop offset="1" stop-color="#1c1e4d"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1045" data-name="Path 1045" d="M-609.428,4214.006c46.039-1.667,134.823,13.531,282.533-22.991s104.965-95.308,283.367-108.8,247.461,11.909,303.092,28.583,284.73,97.584,453.541,92.025,321.454-74.559,371.33-92.025,332.67-76.317,235.951,165.554c-143.873,162.76-51.794,157.583,0,205.221,76.718,42.455,151.546,56.371,184.157,131s117.017,194.519,63.3,262.8-324.194,126.159-661.815,77.728-510.269-118.378-748.139-85.747-437.374,112.82-516.024,20.722-209.1-96.862-155.383-216.75,40.284-115.123,9.592-189.755-281.991-142.117-224.442-192.93" transform="translate(736.896 -4078.398)" fill="url(#linear-gradient)"/>
+<div xmlns="" id="screen-shader" style="            transition: opacity 0.1s ease 0s;             z-index: 2147483647;            margin: 0;             border-radius: 0;             padding: 0;             background: #111111;             pointer-events: none;             position: fixed;             top: -10%;             right: -10%;             width: 120%;             height: 120%;             opacity: 0.4080;            mix-blend-mode: multiply;             display: none;        "/></svg>

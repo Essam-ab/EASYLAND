@@ -1,0 +1,23 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="1087"
+    height="629"
+    viewBox="0 0 1087 629">
+    <defs><path
+        id="eaaga"
+        d="M803.15-232.972C866.26-170.788 920.905-99.359 869.857.885c-51.048 100.245-136.615 5.06-291.646 123.17-155.03 118.11-255.553 105.052-317.104-5.463C199.558 8.077.381 17.602-8.026 109.729c-8.407 92.127-46.4 212.192-138.888 114.576-92.488-97.616-26.714-308.524-26.714-308.524s100.201-272.966 242.14-282.517c141.937-9.551 734.637 133.764 734.637 133.764z"/>
+        <linearGradient
+            id="eaagb"
+            x1="-17.93"
+            x2="660.08"
+            y1="-77.41"
+            y2="-9.41"
+            gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#eb416b"/><stop offset="1" stop-color="#1d1d4c"/></linearGradient>
+    </defs>
+    <g>
+        <g opacity=".91" transform="translate(197 368)"><use fill="url(#eaagb)" xlink:href="#eaaga"/></g>
+    </g><div
+        xmlns=""
+        id="screen-shader"
+        style="            transition: opacity 0.1s ease 0s;             z-index: 2147483647;            margin: 0;             border-radius: 0;             padding: 0;             background: #111111;             pointer-events: none;             position: fixed;             top: -10%;             right: -10%;             width: 120%;             height: 120%;             opacity: 0.4080;            mix-blend-mode: multiply;             display: none;        "/></svg>

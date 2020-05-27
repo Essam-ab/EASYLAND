@@ -1,0 +1,142 @@
+.line-one{
+    background: #207dff;
+    height: 1px;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+.headers{
+    color: #000;
+}
+
+
+.single-contact{
+    background:transparent;
+}
+
+.single-contact h2{
+    color: #000
+}
+
+.single-contact i.fa{
+    color: #4f4feb;
+}
+
+.single-contact .socials a i.fa{
+    color: #207dff;
+}
+
+.single-contact p{
+    color: #333247;
+}
+
+.margin-index{
+    margin-bottom: 50px;
+}
+
+#form_name, 
+#form-email,
+ #form_message{
+    background: transparent;
+} 
+
+.fix-index{
+    height: 20px;
+    
+}
+
+.socials a i{
+    padding: 10px;
+    transform: scale(1.5);
+    transition: all 0.1s ease-in;
+}
+
+.socials a i:hover{
+    transform: scale(1.8);
+    transition: all 0.1s ease-out;
+}
+
+.socials a i:active{
+    transform: scale(1.3);
+    transition: all 0.1s ease-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* contact area css starts*/
+
+    /* box shaow of contact input area */
+    #contact-form {
+        box-shadow: 0 20px 40px rgba(0,0,0,.2);
+    }
+
+    /* box shadow of contact social media are*/
+    .single-contact {
+        box-shadow: 0 20px 40px rgba(0,0,0,.2);
+        padding: 5%;
+    }
+
+
+    /* icons colors */ 
+    .single-contact i {
+        color: #569ee6;
+    }
+
+    /* social media colors */
+    .single-contact .socials i {
+        color: #569ee6;
+    }
+
+    /* border bottom name and email input */
+    .contact-area .form-control{
+        border: none;
+        border-bottom: 2px solid #fec92f;
+        box-shadow: none;
+        padding: 6px 0;
+        border-radius: 0;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+
+    /* text area message border color */
+    .contact-area textarea.form-control{
+        border:2px solid #fec92f;
+        padding: 0px;
+        resize: none;
+        font-size: 14px;
+    }
+
+    /*  the send message button colors */
+    .btn.btn-send {
+        background: -webkit-linear-gradient(right, #bd7cf0,#d17dec );
+        border: none;
+        color: #ffffff;
+        padding: 15px 20px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    .btn.btn-send:hover{
+        background: #85d69e;
+        background:-webkit-linear-gradient(right,#8d4cca , #da58ae );
+        transform: scale(1.05);
+        transition: all 0.2s ease-in;
+    }
+
+/* contact area css ends */

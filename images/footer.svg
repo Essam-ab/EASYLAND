@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3884.8" height="4988.156" viewBox="0 0 3884.8 4988.156">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.139" y1="0.018" x2="1.173" y2="-0.221" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c1e4d"/>
+      <stop offset="0.979" stop-color="#f4436c"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.182" y1="0.053" x2="1.003" y2="0.469" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c1e4d"/>
+      <stop offset="0.949" stop-color="#f4436c"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.094" y1="0.09" x2="1.04" y2="0.797" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c1e4d"/>
+      <stop offset="0.985" stop-color="#f4436c"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_67" data-name="Group 67" transform="translate(580.559 -3580.506)">
+    <path id="Path_1052" data-name="Path 1052" class="cls-1" d="M-530.053,6180.52c194.018,125.3,145.513,598.221,1232.82,820.532,348.782,71.313,485.044,20.21,553.758-60.63s274.858-282.942,578.01-129.345,383.993,460.792,347.615,590.137,0,1641.064,0,1641.064V10598.46l-3100.238,20.21V7210.833s-266.774-678.657-157.639-852.465S-724.071,6055.216-530.053,6180.52Z" transform="translate(-342.537 -2185.549) rotate(-8)"/>
+    <path id="Path_1051" data-name="Path 1051" class="cls-2" d="M-525.462,6182c195.575,129,146.681,615.889,1242.716,844.767,351.581,73.418,488.937,20.808,558.2-62.421s277.064-291.3,582.65-133.165,387.075,474.4,350.4,607.566,0,1689.533,0,1689.533v1602.144l-3125.124,20.807V7242.74s-268.916-698.7-158.9-877.642S-721.037,6052.992-525.462,6182Z" transform="translate(-10.057 -2237.694) rotate(-5)"/>
+    <path id="Path_1050" data-name="Path 1050" class="cls-3" d="M-536,6180c192,124,144,592,1220,812,345.155,70.571,480,20,548-60s272-280,572-128,380,456,344,584,0,1624,0,1624v1540l-3068,20V7199.6S-1184,6528-1076,6356-728,6056-536,6180Z" transform="matrix(1, -0.017, 0.017, 1, 529.799, -2228.003)"/>
+  </g>
+<div xmlns="" id="screen-shader" style="            transition: opacity 0.1s ease 0s;             z-index: 2147483647;            margin: 0;             border-radius: 0;             padding: 0;             background: #111111;             pointer-events: none;             position: fixed;             top: -10%;             right: -10%;             width: 120%;             height: 120%;             opacity: 0.4080;            mix-blend-mode: multiply;             display: none;        "/></svg>

@@ -1,0 +1,224 @@
+/* here goes my theme colors  */
+
+/* selection goes here*/
+::placeholder {
+    color: #777777;
+    opacity: 1;
+    font-weight: 300;
+}
+
+::selection {
+    background-color: #accf52;
+    color: #fff;
+}
+
+::selection {
+    background-color: #accf52;
+    color: #fff;
+}
+
+/*end selection*/
+/* this is the border of all the headers in the website*/
+
+.line-one {
+    /* default: #207dff */
+    background: #e87e16;
+    height: 1px;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.headers {
+    color: #112e41;
+    font-size: 4rem;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: inherit;
+    font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/*needed color #accf52*/
+
+/* nav area css starts  */
+.sticky_navigation .navbar-brand span,
+.sticky_navigation .navbar-brand:focus,
+.sticky_navigation .navbar-brand:hover {
+    color: #accf52;
+    /* icon navbar color  */
+}
+
+.nav ul li a {
+    background: black;
+}
+
+.nav li a {
+    color: white;
+    font-weight: bold;
+}
+
+.nav li.active a {
+    color: #e87e16;
+}
+
+
+.nav li a:hover {
+    color: #e87e16;
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+    font-weight: bold;
+}
+
+.sticky_navigation .nav li.active::before {
+    border-top: 1px solid cyan;
+    border: none;
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+.sticky_navigation .nav li.active::after {
+    border-bottom: 1px solid cyan;
+    border: none;
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+/* logout button goes here  */
+
+/* nav area css ends  */
+
+/* banner area css starts */
+.intro h1 {
+    color: #112e41;
+}
+
+.intro h3 {
+    color: white;
+}
+
+/* cursor color*/
+.ah-headline.clip .ah-words-wrapper::after {
+    background-color: #000;
+}
+
+/* user name color */
+.userNameColor {
+    color: white !important;
+    background: -webkit-linear-gradient(40deg, #fec92f 0%, #e87e16 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* banner area css ends */
+
+/* contact area css starts*/
+
+/* box shaow of contact input area */
+#contact-form {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
+}
+
+/* box shadow of contact social media are*/
+.single-contact {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
+    padding: 5%;
+}
+
+/* icons colors */
+.single-contact i {
+    color: white;
+}
+
+/* social media colors */
+.single-contact .socials i {
+    color: rgb(199, 219, 223);
+}
+
+/* border bottom name and email input */
+.contact-area .form-control {
+    border: none;
+    border-bottom: 2px solid #2cc4f0;
+    border-radius: 25px;
+    box-shadow: none;
+    padding: 6px 0;
+    margin-bottom: 30px;
+    -webkit-appearance: textfield;
+    -webkit-rtl-ordering: logical;
+    text-rendering: auto;
+    -webkit-writing-mode: horizontal-tb !important;
+}
+
+/* text area message border color */
+.contact-area textarea.form-control {
+    border: 2px solid #2cc4f0;
+    border-radius: 25px;
+    padding: 6px;
+    height: 250px;
+    resize: none;
+    -webkit-appearance: textfield;
+    -webkit-rtl-ordering: logical;
+    text-rendering: auto;
+    -webkit-writing-mode: horizontal-tb !important;
+    transform: translateX(0px);
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+
+/*  the send message button colors */
+.btn.btn-send {
+    background: -webkit-linear-gradient(right, #bd7cf0, #d17dec);
+    border: none;
+    color: #ffffff;
+    padding: 15px 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.btn.btn-send:hover {
+    background: #85d69e;
+    background: -webkit-linear-gradient(right, #8d4cca, #da58ae);
+    transform: scale(1.05);
+    transition: all 0.2s ease-in;
+}
+
+/* contact area css ends */
+
+/* footer colors */
+
+.footer-area {
+    background: rgba(28, 30, 77, 0.74);
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: white;
+}
+
+.text-center p {
+    color: white;
+}
+
+.text-center p a {
+    color: #3aff0f;
+}
+
+.text-center p a:hover {
+    text-decoration: none;
+    color: #f4436c !important
+}
+
+.footer-custom a {
+    text-decoration: none;
+    color: #3aff0f !important;
+}
+
+.footer-custom a:hover {
+    color: #f4436c !important
+}

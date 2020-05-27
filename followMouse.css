@@ -1,0 +1,22 @@
+.move-area{
+    padding: 10% 45%;
+    /* transform: translateY(150px) */
+  }
+  .eye {
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background: white;
+  }
+  .eye:after { 
+    position: absolute;
+    bottom: 17px;
+    right: 10px;
+    width: 10px;
+    height: 10px;
+    background: -webkit-linear-gradient(40deg, #accf52 100%, cyan 100%);
+    border-radius: 50%;
+    content: " ";
+  }
